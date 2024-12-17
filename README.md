@@ -1,38 +1,34 @@
-Lebenslauf
-Yusif Allahverdiyev
-Name: Yusif Allahverdiyev
+# Lebenslauf
 
-Anschrift: Ringstraße 72
+Dies ist mein Lebenslauf in HTML-Format. Du kannst den Lebenslauf lokal auf deinem Computer ansehen, indem du die `lebenslauf.html` Datei öffnest.
 
-Telefon: +491608498096
+## Anleitung
 
-E-Mail: yusifallahverdi@cloud.com
+### 1. Datei herunterladen
+1. Gehe zu deinem Repository auf GitHub, wo die **`lebenslauf.html`** Datei gespeichert ist.
+2. Klicke auf **`lebenslauf.html`**.
+3. Klicke auf **"Download"** oder **"Raw"**, um die Datei auf deinen Computer herunterzuladen.
+   - Alternativ kannst du mit der rechten Maustaste auf **"Raw"** klicken und **"Ziel speichern unter..."** auswählen.
 
-LinkedIn: https://www.linkedin.com/in/yusif-allahverdiyev-934863340/
+### 2. Datei lokal öffnen
+1. Gehe zu dem Ordner, in dem du die **`lebenslauf.html`**-Datei gespeichert hast.
+2. Doppelklicke auf die Datei **`lebenslauf.html`**.
+3. Die Datei wird sich in deinem Standard-Webbrowser (wie Chrome, Firefox oder Edge) öffnen, und du kannst deinen Lebenslauf sehen.
 
-GitHub: github.com/Yusif-Allahverdi
+## Technologien
+- HTML
+- CSS
 
-Geburtstag und -ort: 4. November 2007 in Baku
+## Zertifikate
+- Russisch B1 bestanden (17.05.2024)
+- Social Media Marketing with AI Zertifikat (15.12.2024)
+- Python Developer Zertifikat (07.01.2025)
 
-Schulbildung
-2023 – 2024: Schule am Inselsee (Mittlere Reife)
+## Hobbys
+- Schach spielen
+- Programmieren
 
-2014 – 2022: Gymnasium Nummer 13, Poltawa (8 Klasse Abschluss)
-
-Persönliche Fähigkeiten und Kompetenzen
-Computerkenntnisse: Gute Computerkenntnisse
-
-Sprachkenntnisse: Russisch (Muttersprache), Englisch (Gute Kenntnisse)
-
-Persönliche Stärken: Hilfsbereit, Pünktlichkeit
-
-Hobbys: Schach(spiel), Programmieren
-
-Zertifikate
-17.05.2024: Russisch B1 bestanden
-
-15.12.2024: Social Media Marketing with AI Zertifikat (Sololearn)
-
-07.01.2025: Python Developer Zertifikat (Sololearn)
-
-Güstrow, 7.01.2025
+## Kontakt
+- **E-Mail:** [yusifallahverdi@cloud.com](mailto:yusifallahverdi@cloud.com)
+- **Telefon:** +491608498096
+- **Adresse:** Ringstraße 72, Güstrow
