@@ -1,7 +1,5 @@
 # Lebenslauf
 
-Dies ist mein Lebenslauf in HTML-Format. Du kannst den Lebenslauf lokal auf deinem Computer ansehen, indem du die `lebenslauf.html` Datei öffnest.
-
 ## Anleitung
 
 ### 1. Datei herunterladen
