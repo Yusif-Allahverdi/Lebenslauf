@@ -6,7 +6,7 @@
 - **Anschrift:** Ringstraße 72
 - **Telefon:** +491608498096
 - **E-Mail:** [yusifallahverdi@cloud.com](mailto:yusifallahverdi@cloud.com)
-- **LinkedIn:** [https://www.linkedin.com/in/yusif-allahverdiyev-934863340/](https://www.linkedin.com/in/yusif-allahverdiyev-934863340/)
+- **LinkedIn:** [https://www.linkedin.com/in/yusif-allahverdiyev/](https://www.linkedin.com/in/yusif-allahverdiyev/)
 - **GitHub:** [github.com/Yusif-Allahverdi](https://github.com/Yusif-Allahverdi)
 - **Geburtstag und -ort:** 4. November 2007 in Baku
 
