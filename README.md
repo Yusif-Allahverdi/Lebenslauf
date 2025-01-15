@@ -14,7 +14,7 @@
 
 ## Schulbildung
 
-- **2023 – 2024:** Schule am Inselsee (Mittlere Reife)
+- **2023 – 2024:** Schule am Inselsee (Berufsreife)
 - **2014 – 2022:** Gymnasium Nummer 13, Poltawa (8. Klasse Abschluss)
 
 ---
