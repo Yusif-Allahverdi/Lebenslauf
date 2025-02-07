@@ -31,8 +31,8 @@
 ## Zertifikate
 
 - **17.05.2024:** Russisch B1 bestanden
-- **15.12.2024:** Social Media Marketing with AI Zertifikat (Sololearn)
-- **07.01.2025:** Python Developer Zertifikat (Sololearn)
+- **15.12.2024:** Social Media Marketing with AI Zertifikat(Sololearn)
+- **07.01.2025:** Python Developer Zertifikat(Sololearn)
 
 ---
 
